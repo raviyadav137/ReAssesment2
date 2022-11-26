@@ -91,7 +91,7 @@ li:hover{
     transition:all 2s linear;
 }
 .item2:hover{
-    transform:scale(-0.5);
+    transform:scale(-0.01);
     background-color: red;
 }
 .item3{
